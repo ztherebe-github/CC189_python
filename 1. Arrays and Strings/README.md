@@ -36,9 +36,6 @@
 
   EXAMPLE
   
-  Input:                    Output:
-  
-  
   pale, ple       ->        true
   
   
