@@ -11,7 +11,7 @@
   Write a method to replace all spaces in a string with '%20'. You may assume that the string has sufficient space at the end to hold the additional characters, and that you are given the "true" length of the string. 
   
   EXAMPLE
-  INPUT:    "Mr John Smith     ", 13
+  Input:    "Mr John Smith     ", 13
   Output:   "Mr%20John%20Smith"
 
 
@@ -19,7 +19,7 @@
   
   Given a string, write a function to check if it is a permutation of a palindrome. A palindrome is a word or phrase that is the amse forwards and backwards. A permutation is a rearrangement of letters. The palindrome does not need to be limited to just dictionary words.
 
-  EXAMPLKE
+  EXAMPLE
 
   Input:  Tact Coa
   Output: True (permutations: "taco cat","atco cta", etc.)
